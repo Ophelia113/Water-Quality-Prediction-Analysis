@@ -1,6 +1,9 @@
 # Water-Quality-Prediction-Analysis
 
 
+**Deployed with Vercel app:** https://waterqualityprediction-omyvr6qch-ophelia113s-projects.vercel.app/
+
+
 **What is Water Quality?**
 
 Water Quality refers to the chemical, physical, and biological characteristics of water based on the standards of its usage.
