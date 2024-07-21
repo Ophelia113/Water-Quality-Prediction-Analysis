@@ -1,7 +1,7 @@
 # Water-Quality-Prediction-Analysis
 
 
-**Deployed with Vercel app:** https://waterqualityprediction-omyvr6qch-ophelia113s-projects.vercel.app/
+**Deployed with Vercel app:** https://waterqualityprediction-ophelia113s-projects.vercel.app/
 
 
 **What is Water Quality?**
